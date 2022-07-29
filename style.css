@@ -1,0 +1,16 @@
+#body_background{
+    background-color: rgb(150, 141, 235);
+}
+
+#raja{
+border: ridge 10px;
+border-color:blue;
+}
+#rani{
+    border: ridge 10px;
+    border-color: coral;
+}
+#rosie{
+    border: ridge 10px;
+    border-color: pink;
+}
